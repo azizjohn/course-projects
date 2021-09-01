@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/tMNvc7t/c.png" alt="c" width="100%" border="0">
+<div align="center" width="80%">
+  <img src="https://i.ibb.co/gy8YZKM/cp.png" alt="Photo">   
+</div>
 <hr>
 <h2>Course Projects</h2>
 <ul>
